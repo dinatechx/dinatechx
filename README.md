@@ -1,4 +1,5 @@
-# Hi, I'm @dinatechx 👋
+# Hi, I'm Lordina A. Antwi 👋
+
 <p align="center">
   <img src="https://media.giphy.com/media/xUPGcAep2gZ7zHbFRG/giphy.gif" alt="anime hero intro" width="500"/>
 </p>
@@ -7,93 +8,121 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Full-stack Developer** and **AI Enthusiast** with a flair for creativity and problem-solving. I love building impactful solutions using cutting-edge technology while keeping things fun and anime-inspired. Whether it's AI-driven apps, sleek web designs, or full-stack platforms, I bring a unique vision to every project.
+I'm a **Tech Enthusiast**, **AI Advocate**, and a **Full-Stack Developer** with experience in robotics, backend development, and AI policy advocacy. I have a passion for building impactful tech solutions and driving innovation, especially in the fields of **HealthTech**, **AI** ethics, and **STEM education**. I believe technology should be used to improve the quality of life, and I am driven by the desire to make an impact on the world through my work.
 
-- 👀 I’m interested in **AI, machine learning**, and **full-stack development**.
-- 🌱 I’m currently learning **Neural Networks, Cloud Computing**, and **Cybersecurity**.
-- 💬 Ask me about **Python, React, Node.js, TensorFlow**, and **Anime recommendations**.
-- 💞️ I’m looking to collaborate on **open-source AI projects** and **developer advocacy initiatives**.
-- 😄 Pronouns: **She/Her** | **They/Them**
-- ⚡ Fun fact: I can name over 100 anime openings by heart! 🎶
+- 🌍 Based in **Ghana**, I am currently a graduate of **Wesley Girls’ High School**, where I led numerous tech-driven projects and advocacy efforts.
+- 🌱 I’m currently exploring **Quantum Computing**, **AI Governance**, and **HealthTech Solutions**.
+- 💬 Let's discuss **Python, Robotics**, and **AI Policy**.
+- 😄 Pronouns: **She/Her**
+- ⚡ Fun fact: I am an advocate for **AI Justice** and a former **Delegate** at the **Ghana International Model United Nations**.
 
 ---
 
-## 💻 Skills & Tech Stack
-Here are some of the cool tools I wield in my tech arsenal:
+## 🎓 Education
 
-### 🧠 AI & Machine Learning
-- **Languages**: Python, R, MATLAB
-- **Frameworks**: TensorFlow, PyTorch, Scikit-learn
+**Wesley Girls’ High School**, Cape Coast  
+_March 2021 - September 2023_  
+Weighted GPA: **3.6**
 
-### 🌐 Web Development
-- **Frontend**: HTML, CSS, JavaScript, React, Next.js
-- **Backend**: Node.js, Express.js, Django
-- **Databases**: PostgreSQL, MongoDB, Firebase
-- **Cloud Platforms**: AWS, Google Cloud, Azure
+**Relevant Courses**:  
+- Core IT
+- Introduction to Network Infrastructure
+- Ecology
+- Social Governance and Sustainability
+- Probability and Statistics
+- Linear Algebra
+- Vectors
 
-### 🔐 Cybersecurity & DevOps
-- **Security**: OWASP, Firewalls, Vulnerability Scanning
-- **DevOps**: Docker, Kubernetes, Jenkins, GitHub Actions
+---
+
+## 💻 Skills & Tools
+
+### 🌐 **Technical Skills**
+- **Programming & Robotics**: Python, Arduino, Raspberry Pi, EV3 Robotics
+- **AI & Machine Learning**: GPT-3, Qubit Quantum Computing, Data Structures and Algorithms
+- **Research & Analysis**: Google Scholar, IEEE, Google Patent
+- **Core Competence**: Resilience, Leadership, Effective Communication
+
+### 🔧 **Technical Stack**
+- **Languages**: Python, JavaScript
+- **Frameworks**: Django, Flask, React
+- **Cloud Platforms**: AWS, Firebase
+- **Databases**: MongoDB, PostgreSQL
+- **DevOps**: Docker, GitHub Actions
 
 ---
 
 ## 🌟 Featured Projects
 
-### [1. AnimeRecs.io 🎨](https://github.com/dinatechx/AnimeRecs)
-An anime recommendation engine powered by AI and machine learning. Get personalized anime recommendations based on your watch history and preferences!
+### [1. GPT-3 Powered Medical Chatbot 💬](https://github.com/lordev/gpt-medical-chatbot)
+Developed a **GPT-3 powered medical chat assistant** and voice assistant that answers user queries with a 95% accuracy rate. It assists patients with medical information and offers a voice interaction feature.
 
-- **Tech stack**: Python, Scikit-learn, Flask, React
-- **Features**: User Authentication, Data Scraping, Personalized Suggestions
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l3vRk5CfWAZwhTxte/giphy.gif" alt="anime recommendation" width="300"/>
-</p>
+- **Role**: Python (Backend) Developer
+- **Tools**: Python, GPT-3, Flask
 
 ---
 
-### [2. CodeBenders 💻](https://github.com/dinatechx/CodeBenders)
-An interactive coding platform that teaches beginners how to code by solving challenges with an anime-inspired storyline.
+### [2. Mental Health AI for Microsoft Imagine Cup 🧠](https://github.com/lordev/mental-health-ml)
+Built a **mental health machine learning model** for the **Microsoft Imagine Cup**, earning the **2nd runner-up** and the **People's Choice Award** for Ashanti Region.
 
-- **Tech stack**: Node.js, Express.js, MongoDB, React
-- **Features**: Real-time Code Editor, User Profiles, Progress Tracking, Challenge Levels
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" alt="coding anime" width="300"/>
-</p>
+- **Role**: Project Manager & Developer
+- **Tools**: Machine Learning, Python, Microsoft Azure
 
 ---
 
-### [3. HealthChain ⚕️](https://github.com/dinatechx/HealthChain)
+### [3. HealthChain ⚕️](https://github.com/lordev/healthchain)
 A blockchain-based health record system for secure, decentralized management of patient data.
 
-- **Tech stack**: Solidity, Ethereum, Web3.js, React
-- **Features**: Blockchain Ledger, Data Encryption, Smart Contracts
-
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="blockchain health project" width="300"/>
-</p>
+- **Role**: Backend Developer
+- **Tools**: Solidity, Web3.js, Ethereum, React
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 Work Experience
+
+### 1. **Python Backend Developer** | Dina Freelancing  
+Developed a **GPT-3 powered medical chat application** that helped health professionals answer inquiries with an accuracy rate of 95%.
+
+---
+
+### 2. **Cognitive Research Junior Associate** | DuraSync Inc.  
+Conducted research on **cognitive models**, analyzed 200+ datasets, and contributed to 3 technological advancements that improved advocacy for neurological well-being.
+
+---
+
+### 3. **Director of Advocacy** | Encode Justice (Ghana Chapter)  
+Led advocacy on **AI Justice**, organized 5+ workshops on ethical AI in 2024, and hosted a national debate featuring 10+ high school and tertiary institutions.
+
+---
+
+### 4. **Digital Governance & SWE Fellow** | Next Generation of Tech Giants  
+Produced over **50 tech lawyers**, **200+ software engineers**, and **100+ techpreneurs** through my leadership in the Digital Governance and Software Engineering Fellowship.
+
+---
+
+### 5. **Field Supervisor** | Ghana Robotics Competition  
+Coordinated 20+ schools in a national robotics competition and secured $5000 in funding for the top-performing teams.
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dinatechx&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lordev&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
 </p>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=dinatechx&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=lordev&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
 </p>
 
 ---
 
 ## 🔗 Connect with Me
 
-Let's get in touch and build something great together!
-
-- **Portfolio**: [dinatechx.com](https://dinatechx.com)
-- **Twitter**: [@dinatechx](https://twitter.com/dinatechx)
-- **LinkedIn**: [Dina Tech](https://linkedin.com/in/dinatechx)
-- **Email**: dinatechx@techmail.com
+- **GitHub**: [lordev](https://github.com/lordev)
+- **LinkedIn**: [Lordina A. Antwi](https://www.linkedin.com/in/lordina-antwi-589439303/)
+- **Portfolio**: [lordina.tech](https://lordina.tech)
+- **Email**: antwi7750@gmail.com
 
 <p align="center">
   <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" alt="connect with me" width="300"/>
@@ -101,14 +130,20 @@ Let's get in touch and build something great together!
 
 ---
 
+## 💼 Portfolio Highlights
+
+Explore more about my projects, advocacy work, and initiatives on [lordina.tech](https://lordina.tech). I strive to empower young African women and high school graduates through innovative technology solutions and impactful policy work.
+
+---
+
 ## 🐱‍👤 Fun Fact
 
-I secretly dream of developing the ultimate anime MMORPG! Maybe one day, we'll all be living in the **SAO** universe. 😉 
+I'm a proud participant in the **Ghana International Model United Nations**, and my love for diplomacy and policy extends beyond tech—I'm passionate about using AI for **ethical justice**.
 
 <p align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="anime fun fact" width="400"/>
 </p>
 
 <!---
-dinatechx/dinatechx is an advanced GitHub profile that showcases my portfolio, skills, and featured projects. Stay tuned for more!
+lordev/lordev is an advanced GitHub profile that showcases my portfolio, skills, and featured projects. Stay tuned for more!
 --->
