@@ -119,7 +119,7 @@ Coordinated 20+ schools in a national robotics competition and secured $5000 in 
 
 ## 🔗 Connect with Me
 
-- **GitHub**: [lordev](https://github.com/dinatechx)
+- **GitHub**: [dinatechx](https://github.com/dinatechx)
 - **LinkedIn**: [Lordina A. Antwi](https://www.linkedin.com/in/lordina-antwi-589439303/)
 - **Portfolio**: [lordina.tech](https://lordina.tech)
 - **Email**: antwi7750@gmail.com
