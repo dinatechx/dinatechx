@@ -1,7 +1,7 @@
 # Hi, I'm Lordina A. Antwi 👋
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xUPGcAep2gZ7zHbFRG/giphy.gif" alt="anime hero intro" width="500"/>
+  <img src="[https://media.giphy.com/media/xUPGcAep2gZ7zHbFRG/giphy.gif](https://media.licdn.com/dms/image/v2/D4E03AQErr1NMlvGbVw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1720824017846?e=1733961600&v=beta&t=PJ07P3dJxUZksBoNHgJ258RA8dNRF-VOgab7yjVI6jI)" alt="anime hero intro" width="500"/>
 </p>
 
 ---
