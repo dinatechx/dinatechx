@@ -22,7 +22,7 @@ I'm a **Tech Enthusiast**, **AI Advocate**, and a **Full-Stack Developer** with 
 
 **Wesley Girls’ High School**, Cape Coast  
 _March 2021 - September 2023_  
-Weighted GPA: **3.6**
+
 
 **Relevant Courses**:  
 - Core IT
